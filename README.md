@@ -1,4 +1,3 @@
-# A-Simple-Shell
 Shell Utility
 Using system calls to handle all file operations, write a program in C/C++/Java that copies a file from one location to another, and deletes the original version. The program should take two file names as its arguments, the first one being the file to copy, and the second being the new location. The new location should not be over-written if it already exists. The program should check for bad inputs and should work for files of arbitrary size. In addition, the program should gracefully handle error conditions while copying the file. Make sure to use system calls (e.g., open) and not the C library for manipulating files (e.g., fopen).
 Write a program in C/C++/Java to create files of 1, 10 and 100MB in size, and them time how long it takes to copy these files. Are the results what you imagine them to be?
@@ -20,3 +19,4 @@ The path variable holds a list of possible paths in which to search for executab
 path (without arguments) displays all entries in the list separated by colons e.g., /bin:/usr/bin.
 path + /some/dir appends the given pathname to the path list.
 path - /some/dir removes the given pathname from the path list.
+
