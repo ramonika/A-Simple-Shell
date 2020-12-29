@@ -19,4 +19,4 @@ The path variable holds a list of possible paths in which to search for executab
 path (without arguments) displays all entries in the list separated by colons e.g., /bin:/usr/bin.
 path + /some/dir appends the given pathname to the path list.
 path - /some/dir removes the given pathname from the path list.
-
+ 
