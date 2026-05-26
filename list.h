@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : list.c
- Author      : mahendra pratap singh
+ Author      : 
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
